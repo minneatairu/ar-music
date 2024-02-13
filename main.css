@@ -1,0 +1,6 @@
+/* Reset any default margins and padding */
+
+model-viewer {
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
+}
